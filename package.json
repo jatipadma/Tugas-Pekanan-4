@@ -1,0 +1,24 @@
+{
+  "name": "tugas-pekanan-4-1",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 4 - API Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatipadma/Tugas-Pekanan-4.git"
+  },
+  "author": "jati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatipadma/Tugas-Pekanan-4/issues"
+  },
+  "homepage": "https://github.com/jatipadma/Tugas-Pekanan-4#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
